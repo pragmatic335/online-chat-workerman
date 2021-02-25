@@ -1,0 +1,40 @@
+.custom-bord {
+    /*border: none;*/
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#register-block {
+    position: absolute !important;
+    top: calc(50% - 150px);
+    left: calc(50% - 150px);
+    width: 300px;
+    height: 300px;
+}
+
+#messages {
+    /*width: max-content;*/
+    padding-left: 25px;
+    padding-right: 25px;
+    height: calc(100vh - 120px);
+    margin-bottom: 10px;
+
+    border-bottom: 2px solid;
+    border-color: whitesmoke;
+    /*background-color: whitesmoke;*/
+}
+
+.test {
+    transition-property: opacity;
+    transition-duration: 0.5s;
+    /*font-weight: lighter;*/
+}
+
+/*#massager {*/
+/*    font-size: 30px;*/
+/*}*/
+
+
