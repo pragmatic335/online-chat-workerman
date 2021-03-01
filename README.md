@@ -1,2 +1,4 @@
-# websocket-worker
-websocket test
+# online-chat-workerman
+
+Чат для ЦОГа 
+Построен с использованием библиотеки workerman
